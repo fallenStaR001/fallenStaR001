@@ -2,7 +2,10 @@
 
 #### I am learning web development 
 
-![I am learning web development ](https://cdn.discordapp.com/attachments/1057290458994315276/1102467758895149126/png_20230501_113117_0000.png)
+![I am learning web development ]
+![jpg_20230501_114137_0000](https://user-images.githubusercontent.com/103756787/235412466-8ba19473-b907-4998-9452-91d5d4010d69.jpg)
+
+
 
 I love to code & keep things simple. 
 
